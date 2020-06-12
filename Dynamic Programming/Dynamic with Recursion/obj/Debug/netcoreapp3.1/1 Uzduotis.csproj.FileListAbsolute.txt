@@ -1,0 +1,13 @@
+C:\Users\maceina\Desktop\1 Uzduotis\bin\Debug\netcoreapp3.1\1 Uzduotis.exe
+C:\Users\maceina\Desktop\1 Uzduotis\bin\Debug\netcoreapp3.1\1 Uzduotis.deps.json
+C:\Users\maceina\Desktop\1 Uzduotis\bin\Debug\netcoreapp3.1\1 Uzduotis.runtimeconfig.json
+C:\Users\maceina\Desktop\1 Uzduotis\bin\Debug\netcoreapp3.1\1 Uzduotis.runtimeconfig.dev.json
+C:\Users\maceina\Desktop\1 Uzduotis\bin\Debug\netcoreapp3.1\1 Uzduotis.dll
+C:\Users\maceina\Desktop\1 Uzduotis\bin\Debug\netcoreapp3.1\1 Uzduotis.pdb
+C:\Users\maceina\Desktop\1 Uzduotis\obj\Debug\netcoreapp3.1\1 Uzduotis.csprojAssemblyReference.cache
+C:\Users\maceina\Desktop\1 Uzduotis\obj\Debug\netcoreapp3.1\1 Uzduotis.csproj.CoreCompileInputs.cache
+C:\Users\maceina\Desktop\1 Uzduotis\obj\Debug\netcoreapp3.1\1 Uzduotis.AssemblyInfoInputs.cache
+C:\Users\maceina\Desktop\1 Uzduotis\obj\Debug\netcoreapp3.1\1 Uzduotis.AssemblyInfo.cs
+C:\Users\maceina\Desktop\1 Uzduotis\obj\Debug\netcoreapp3.1\1 Uzduotis.dll
+C:\Users\maceina\Desktop\1 Uzduotis\obj\Debug\netcoreapp3.1\1 Uzduotis.pdb
+C:\Users\maceina\Desktop\1 Uzduotis\obj\Debug\netcoreapp3.1\1 Uzduotis.genruntimeconfig.cache
